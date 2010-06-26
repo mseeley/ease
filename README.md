@@ -14,8 +14,8 @@ Interface
 
     factory ease
 
-      Ease  ease (Number from, Number to, Number time, Function onstep)
-      Ease  ease (Object settings)
+      Ease      ease(Number from, Number to, Number time, Function onstep)
+      Ease      ease(Object settings)
 
     class Ease
 
